@@ -1,5 +1,11 @@
 # project-webpack-01
 
+## install
+
+```
+npm install
+```
+
 ## Develop
 
 ```
